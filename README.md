@@ -17,5 +17,5 @@ git clone https://github.com/jbudcardi/html-recipes.git
 Alternatively, the project can be downloaded in .ZIP format from the repo web page.
 
 ## 📷 Demo Images
-![Main Page](images/main_page_example.jpeg)
-![Italian Subs](images/italian_subs_example.jpeg)
+![Main Page](images/main_page_example.jpg)
+![Italian Subs](images/italian_subs_example.jpg)
